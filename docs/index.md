@@ -6,4 +6,4 @@ icon: lucide/rocket
 
 ## Edital Blender
 
-[Edital Pavilhão Blender](docs/blender_pav/index.md)
+[Edital Pavilhão Blender](./blender_pav/index.md)
