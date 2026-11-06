@@ -2,9 +2,9 @@
 
 [Edital](docs/blender_pav/arquivos/Edital - Exercício 4 - Pavilhão (Blender 2026).md)
 
-[Passo a Passo](docs/blender_pav/arquivos/Passo_a_passo_Modelagem_Blender.pdf)
+[Passo a passo](docs/blender_pav/arquivos/Passo_a_passo_Modelagem_Blender.pdf)
 
-[Tutorial Passo a passo](https://www.youtube.com/watch?v=d_lfvoTOCoA)
+[Vídeo tutorial passo a passo](https://www.youtube.com/watch?v=d_lfvoTOCoA)
 
 ## Material de estudo do Blender
 
