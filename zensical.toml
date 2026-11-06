@@ -11,8 +11,8 @@ site_name = "Documentation"
 # edit_uri = "edit/main/docs/"
 
 nav = [
-  { "TD1 Editais" = "index.md" },
-  { "Markdown in 5min" = "blender_pav/" },
+  { "TD1 Editais e materiais" = "index.md" },
+  { "Edital Blender" = "blender_pav" },
 ]
 
 # extra_css = ["stylesheets/extra.css"]
