@@ -12,7 +12,7 @@ site_name = "Documentation"
 
 nav = [
   { "TD1 Editais e materiais" = "index.md" },
-  { "Edital Blender" = "blender_pav" },
+  { "Edital Blender" = "blender_pav/" },
 ]
 
 # extra_css = ["stylesheets/extra.css"]
